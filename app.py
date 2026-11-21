@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="AISE Deployment Demo")
 st.title("AI-Enabled Software Engineering")
-st.header("Cloud Deployment Demonstration")
+st.header("My First Cloud Deployment")
 st.write("This application is running as a cloud deployment demo.")
 
 name = st.text_input("Enter your name")
